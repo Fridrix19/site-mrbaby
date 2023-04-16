@@ -6,7 +6,7 @@ body {
 .navigation a {
   position: relative;
   text-decoration: none;
-  color: #000;
+  color: #ffffff !important;
 }
 
 .navigation a:before {
@@ -113,7 +113,7 @@ body {
 #logo a {
   position: relative;
   text-decoration: none;
-  color: #000;
+  color: #fff;
 }
 
 #logo a:before {
