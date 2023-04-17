@@ -75,7 +75,7 @@ h4 {
 .navigation a {
   position: relative;
   text-decoration: none;
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 .navigation a:before {
@@ -193,7 +193,7 @@ h4 {
 #logo a {
   position: relative;
   text-decoration: none;
-  color: #000;
+  color: #ffffff;
 }
 
 #logo a:before {
